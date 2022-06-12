@@ -1,5 +1,6 @@
-<!DOCTYPE html>
+
 <html lang="en">
+	  <head>
   <title>S@yed Shafayet Hossain</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,10 +10,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
   <link rel="stylesheet" href="css/style.css">
-    <link
-      href="https://fonts.googleapis.com/css?family=Poppins:300,900&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/main.css" />
   </head>
 
