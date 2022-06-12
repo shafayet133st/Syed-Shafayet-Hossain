@@ -30,9 +30,7 @@
    <li class="nav-item  active">
       <a class="nav-link text-white" href="index.php">HOME</a>
     </li>
-    <li class="nav-item ">
-      <a class="nav-link  text-white"href="#portfolio">PORTFOLIO</a>
-    </li>
+ 
     <li class="nav-item">
       <a class="nav-link  text-white" href="#skills&experience">skills & experience</a>
     </li>
